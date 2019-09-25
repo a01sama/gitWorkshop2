@@ -1,0 +1,2 @@
+To create a new repository type the git init command in your terminal window.  This will initialize an empty Git repository in your current directory.
+Open notepad++ and type a couple sentences to the file.  It doesn’t matter what they say but keep it clean!
